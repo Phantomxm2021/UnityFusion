@@ -1,0 +1,17 @@
+{
+  "name": "com.phantomsxr.unityfusion",
+  "version": "3.2.1",
+  "displayName": "UnityFusion",
+  "description": "UnityFusion is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.",
+  "category": "Runtime",
+  "keywords": [
+    "UnityFusion",
+    "hotupdate",
+    "hotfix"
+  ],
+  "author": {
+    "name": "Code Philosophy",
+    "email": "nswell@phantomsxr.com",
+    "url": "https://phantomsxr.com"
+  }
+}
